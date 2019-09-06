@@ -1,15 +1,22 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(68, 194, 236);
   }
   
   h1 {
-    color: white;
+    color: blueviolet;
     text-align: center;
+    font-size: 50px;
   }
   
   p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
+  }
+  .title {
+    color: teal;
+  }
+  .uppercase {
+    text-transform: uppercase;
   }
   /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
